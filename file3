@@ -1,0 +1,40 @@
+From Wikipedia, the free encyclopedia
+Wikipedia
+
+Screenshot
+Developer(s)	Wikimedia Foundation
+Repository	
+Android
+iOS
+Website	doc.wikimedia.org
+A number of organizations within the Wikimedia movement including the Wikimedia Foundation publish official mobile apps for mobile access to Wikipedia. All are available via the appropriate app store (e.g. Google Play, App Store, Microsoft Store, F-Droid). They can also be downloaded independently of any third-party store, from the Wikimedia Foundation's releases website, which also keeps old and beta versions.[1]
+
+Official apps
+Further information: Help:Mobile access
+Wikimedia Foundation
+Wikipedia apps from the Wikimedia Foundation are called "Wikipedia".
+
+Android
+The Android app allows editing articles directly from the app. It is available on Play Store, Galaxy Store,[2] Aptoide,[3] Cafe Bazaar,[4] F-Droid,[5] and GetJar.[6]
+
+iOS 
+The iOS app also provides a read and write version of Wikipedia,[7] similar to the mobile web version. It allows users to share an article via Facebook and other social websites. It also allows users to find geotagged articles near their current location. It does not allow users to see categories or see the normal desktop version.[citation needed]
+
+Windows
+The Metro-style app provides a read-only version of Wikipedia, similar to the mobile web version. The app when used in Windows RT is incapable of showing moving pictures.[citation needed]
+
+Kiwix
+Kiwix has developed a number of offline apps based on Wikipedia content.
+
+Title	Description	Android	iOS	Windows	Other OS	Open source
+Kiwix	Free program to download a whole Wikimedia project and read offline.	Yes	Yes	Windows 10 UWP;
+Older Windows (x86)	Linux,
+F-Droid
+Firefox Add-on, Chrome Extension,
+S60 3rd edition, feature pack 1 or later can show ZIM files via WikiOnBoard	Yes
+Medical Wikipedia (Offline)	Wikipedia's Offline Medical Encyclopedia. Based on Kiwix and developed in collaboration with Wiki Project Med Foundation.	AR, DE, EN, ES, FA, FR, JA, OR, PT, ZH	EN	WikiMed UWP EN;
+Kiwix JS + in-app download of any WikiMed language	only as content file (ZIM) in Kiwix or WikiOnBoard	Yes
+Unassociated apps
+These apps were mainly developed to display articles and are often used on platforms for which an official Wikipedia app was not formerly available, such as Windows Phone. Typical features include searching for articles, bookmarks, sharing, or enlarging images.[citation needed]
+
+Title	hello world
